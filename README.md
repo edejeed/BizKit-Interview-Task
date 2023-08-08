@@ -1,7 +1,7 @@
 # BizKit-Interview-Task
 
 
-#Improve the Matching Algorithm
+# Improve the Matching Algorithm
 
 The current algorithm has a time complexity of O(n * m),this approach could become slow if fave_numbers_1 and fave_numbers_2 have a large number of elements.
 
